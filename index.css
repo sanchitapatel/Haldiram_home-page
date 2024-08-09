@@ -1,0 +1,62 @@
+head, body{font-family: "Lilita One",'Helvetica Neue',Helvetica,Arial,sans-serif;
+    text-align: center;}
+    body p{font-family: "Arial"}
+    /* Header section */
+    body a{text-decoration: none;
+    color: #000}
+    .header-list li{display: inline;}
+    .header-list{padding-top: 2%}
+    .header-last-section li{display: inline;}
+    .header-items{padding: 0 1% }
+    .search-box li{display: inline;}
+    .search-box{padding-top: 2%}
+    .header-last-section{padding-top: 2%}
+    .last-items{padding: 0% 5%}
+    #header{text-align: center;
+     }
+    
+    
+    /* Top Slider */
+    #top-slider{padding-top: 2%}
+    
+    .see-more{border: 1px solid #000;
+    padding: 0%;
+    color: white;
+    background-color: #000;}
+    
+    /*text-align: center;
+    
+    /* BEST SELLERS */
+    
+    #best-sellers{
+    padding: 4% 0% 3% 2%}
+    #best-sellers img{width: 80%;
+    }
+    #best-sellers{padding-top: 3%}
+    
+    
+    /* NEW ARRIVALS */
+    #new-arrivals img{width: 80%}
+    #new-arrivals{padding-top: 3%}
+    
+    
+    /* CATEGORIES */
+    #categories img{width: 300px;
+    height: 300px}
+    #categories{padding: 5%}
+    
+    
+    /* BANNER */
+    .banner{width: 20%}
+    
+    .trusted-banner{padding: 3% 0 3% 0}
+    
+    /* ABOUT US */
+    
+    #about-us-text{text-align: left;
+    padding-left: 3%}
+    
+    .explore-button{background-color: red;
+    color: white;
+    padding: 3%;
+    text-decoration: none}
